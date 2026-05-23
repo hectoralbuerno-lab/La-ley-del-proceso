@@ -1,0 +1,6 @@
+{
+  "name": "La Ley del Proceso",
+  "description": "Aplicación web educativa interactiva enfocada en el estudio de la Ley del Proceso y el liderazgo bíblico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
